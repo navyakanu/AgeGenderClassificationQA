@@ -41,3 +41,10 @@ Note:
 1. If you are using MacOS with python3.6, make sure you install the ssl certificate from /Applications/Python\ 3.8/Install Certificates.command
 2. If you have any issue loading the model, try absolute paths
 3. Modify the youtube URL according to the requirement or read from webcam by updating the input command
+
+Caffenet model Details (Already built as mentioned above):
+Original Paper:
+https://talhassner.github.io/home/projects/cnn_agegender/CVPR2015_CNN_AgeGenderEstimation.pdf
+
+DataSet used for model training:
+https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender
